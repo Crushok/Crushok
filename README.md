@@ -8,9 +8,8 @@ I'm a dynamic IT professional with over a decade of experience in technical supp
     <a href="https://linktr.ee/Neyibbendeck">
         <img alt="Linktree Wordpress Websites" title="Visit my Linktree for Wordpress Websites" src="https://custom-icon-badges.demolab.com/badge/Linktree%20Wordpress%20Websites-green?style=for-the-badge&logo=link&logoColor=white"/>
     </a>
-
-
 </p>
+
 <p align="left">
     <a href="https://github.com/Crushok/Minigame/tree/main">
         <img alt="Minigame Repo" title="Visit my Minigame repository" src="https://custom-icon-badges.demolab.com/badge/Minigame%20Repo-blue?style=for-the-badge&logo=github&logoColor=white"/>
