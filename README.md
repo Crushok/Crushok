@@ -11,6 +11,13 @@ I'm a dynamic IT professional with over a decade of experience in technical supp
 </p>
 
 <p align="left">
+    <a href="https://github.com/Crushok/Store-Management-System">
+        <img alt="Store Management Repo" title="Visit the Store Management System repository" src="https://custom-icon-badges.demolab.com/badge/Store%20Management%20Repo-blue?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+</p>
+
+
+<p align="left">
     <a href="https://github.com/Crushok/Minigame/tree/main">
         <img alt="Minigame Repo" title="Visit my Minigame repository" src="https://custom-icon-badges.demolab.com/badge/Minigame%20Repo-blue?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
