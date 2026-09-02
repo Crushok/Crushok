@@ -1,6 +1,6 @@
 # NEYIB
 
-### Software & Systems Engineer | Full-Stack Developer | IT Professional
+### Software & Systems Engineer | Full-Stack Developer | IT Professional 
 
 I'm an IT professional and software developer focused on building practical solutions, automating workflows, and solving real-world technical problems.
 
