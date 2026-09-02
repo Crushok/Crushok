@@ -1,9 +1,18 @@
 # NEYIB
 
-**Digital Craftsman (Developer/Marketing/IT)**
+### Software & Systems Engineer | Full-Stack Developer | IT Professional
 
-I'm a dynamic IT professional with over a decade of experience in technical support, community engagement, IT management, and web development across various sectors. Adept at leading teams and managing customer-centric programs, I bring a strategic approach to problem-solving and process improvement. My expertise extends from hardware and software to developing user engagement strategies, all underpinned by a strong foundation in IT and customer service excellence. I am looking to expand into back-end development.
+I'm an IT professional and software developer focused on building practical solutions, automating workflows, and solving real-world technical problems.
 
+My experience spans **software development, technical support, Windows Server administration, SQL databases, networking, data analytics, hardware troubleshooting, and systems integration**. I enjoy working across the full lifecycle of a project — from designing the database and application architecture to developing the interface, debugging, deployment, and documentation.
+
+My current stack includes **Flutter, Dart, Python, Java, SQL Server, PostgreSQL, Supabase, Git/GitHub, Power BI, Tableau, Windows Server, and Cisco networking**.
+
+Some of my recent projects include a **Flutter + Supabase automotive workshop management platform**, a **Python-based gym access control system integrated with ZKTeco hardware and SQL Server**, and **Java/MySQL desktop applications with analytics and reporting capabilities**.
+
+I'm currently continuing to expand my skills in **backend development, cloud technologies, cybersecurity, systems architecture, and data-driven applications**.
+
+> I like building things that solve actual problems — not just projects that look good in a repository.
 
 
 <p align="left">
